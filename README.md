@@ -1,3 +1,5 @@
+Ryan Note: This fork exists to set up a Docker image so I can deploy this in my own CI/CD flows on GitLab and GitHub!
+
 # Copybara
 
 *A tool for transforming and moving code between repositories.*
